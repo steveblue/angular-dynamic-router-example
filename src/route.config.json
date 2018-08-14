@@ -1,0 +1,28 @@
+{
+    "routes": [
+        {
+            "path": "test1",
+            "children": [
+                {
+                    "path": "order/sales/all"
+                }
+            ]
+        },
+        {
+            "path": "test2",
+            "children": [
+                {
+                    "path": "order/sales/all"
+                }
+            ]
+        },
+        {
+            "path": "test3",
+            "children": [
+                {
+                    "path": "order/sales/all"
+                }
+            ]
+        }
+    ]
+}
